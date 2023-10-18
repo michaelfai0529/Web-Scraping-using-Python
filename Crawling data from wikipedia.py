@@ -39,7 +39,7 @@ for row in tr[1:]: # get rid of the 1st empty column
 
 print(df)
 
-df.to_csv(r'C:\Users\02008552\OneDrive - pccw.com\Desktop\Python project\Web crawling\company_revenue', index = False)
+df.to_csv(r'location for output', index = False)
 
 
 
